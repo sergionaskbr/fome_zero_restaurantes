@@ -180,7 +180,7 @@ with st.container():
    
 with st.container():   
    cols = ['country', 'city']
-   df_aux = df2.loc[:, cols].groupby('country').count().sort_values('city', ascending=False).reset_index()
+   df_aux = df2.loc[:, cols].groupby('country').nunique().sort_values('city', ascending=False).reset_index()
    fig = px.bar(
       df_aux,
       x='country',
