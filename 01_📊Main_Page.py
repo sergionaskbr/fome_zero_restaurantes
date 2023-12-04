@@ -225,7 +225,7 @@ def create_map(dataframe):
 map_df = df2.loc[df2["country"].isin(country_options), :]
 create_map(map_df)
 
-st.markdown('f"""<a href="https://www.comunidadeds.com/"> ##### Projeto final da disciplina FTC - Análise de Dados com Python do Curso de Formação em Ciência de Dados da <em>Comunidade DS</em></a>. Feito por Sérgio Nascimento.')
+st.markdown('f"""<a href="https://www.comunidadeds.com/"> ##### Projeto final da disciplina FTC - Análise de Dados com Python do Curso de Formação em Ciência de Dados da <em>Comunidade DS</em></a>. Feito por Sérgio Nascimento."""')
 st.write('###### LinkedIn - https://www.linkedin.com/in/sergionasc/')
 st.write('###### GitHub - https://github.com/sergionaskbr')
 
