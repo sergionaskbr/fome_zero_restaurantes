@@ -227,6 +227,6 @@ create_map(map_df)
 
 st.markdown('##### Projeto final da disciplina FTC - Análise de Dados com Python do Curso de Formação em Ciência de Dados da Comunidade DS. Feito por Sérgio Nascimento.')
 st.write('###### LinkedIn - https://www.linkedin.com/in/sergionasc/')
-st.write('###### GitHub - https://github.com/sergionaskbr')
+st.write('###### GitHub - https://github.com/sergionaskbr/')
 
 
