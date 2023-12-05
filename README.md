@@ -1,4 +1,5 @@
-# fome_zero_restaurantes
+# Fome Zero Restaurantes
+
 Dashboard de uma plataforma fictícia de restaurantes, baseado em uma dataframe disponibilizado pela empresa Zomato Restaurants no site Kaggle.
 
 A plataforma Fome Zero Restaurantes reune dados de mais de 7 mil restaurantes em 15 países cadastrados. Para cada um desses restaurantes, podemos consultar sua localização, avaliação média, tipo de culinária principal, preço de um prato para duas pessoas (baseado na moeda do país onde o restaurante se encontra), dentre outras informações. Através dos filtros, é possível comparar o preço e a avaliação dos restaurantes por país/cidade, por tipo de culinária, e assim por diante.
